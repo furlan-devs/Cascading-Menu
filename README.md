@@ -34,7 +34,7 @@ Criticism and tips are always welcome!<br><br>
 ![Screenshot_7](https://github.com/furlan-devs/imagens/blob/9b49110e3e3fc655f7f97b470fc283a7d1c605a5/mobile.png)<br>
 <br>
 
-<h2>Referencias/Referencies:</h2>
+<h2>Referencias de Estudo/Study Referencies:</h2>
 - Origamid<br>
 - Curso em Vídeo
 
