@@ -1,7 +1,8 @@
 # Website-Practicing-CSS-HTML-JS  /  PlanYourDreams
 
 Website criado para treinar técnicas com HTML, CSS e JS.<br>
-Focando em menus, submenus, slides e responsividade.
+Focando em menus, submenus, slides e responsividade.<br>
+Críticas e dicas são sempre bem vindas!
 
 
 ---------------------<br>
